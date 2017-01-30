@@ -4,4 +4,4 @@ This is a new file!
 2) Then at some point PUSH your commits to your fork on GitHub
 3) Then at another point make a Pull Request to the Repository you forked from...
 
-That is the basic simplified flow then? 
+That is the basic simplified flow then? Thanks
